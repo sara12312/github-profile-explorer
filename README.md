@@ -72,6 +72,6 @@ Built with:
 
 ## 🎨 Screenshots
 
-![Homepage](./p1.jpg)
-![Profile Page](./p2.jpg)
-![Comparison Page](./p3.jpg) 
+![Homepage](assets/p1.jpg)
+![Profile Page](assets/p2.jpg)
+![Comparison Page](assets/p3.jpg) 
