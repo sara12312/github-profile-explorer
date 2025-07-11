@@ -1,19 +1,19 @@
-# GitHub Profile Explorer 🎉
+# GitHub Profile Explorer 
 
 Welcome to the GitHub Profile Explorer, a tool to dive into GitHub profiles, compare your favorite developers, and get profile summaries powered by AI! 🌟 Built with Next.js, this app lets you explore user stats, repo details, and more! 
 
-## 🌍 Overview
+##  Overview
 
 The GitHub Profile Explorer is your one-stop destination to analyze and compare GitHub profiles. Whether you want to check out a single user's stats, pit two developers against each other in a metric battle, or get a concise AI-generated summary of their profile
 
-## ✨ Features
+##  Features
 
-- 🔍 **Profile Explorer**: View detailed stats (repos, followers, following) for any GitHub user.
-- ⚔️ **Head-to-Head Comparison**: Compare two users across multiple metrics.
-- 🤖 **AI-Powered Summaries**: Get a smart summary of a user's profile using Hugging Face's AI.
-- 📊 **Dynamic Data**: Fetches real-time data from the GitHub API.
+-  **Profile Explorer**: View detailed stats (repos, followers, following) for any GitHub user.
+-  **Head-to-Head Comparison**: Compare two users across multiple metrics.
+-  **AI-Powered Summaries**: Get a smart summary of a user's profile using Hugging Face's AI.
+-  **Dynamic Data**: Fetches real-time data from the GitHub API.
 
-## 🚀 Installation
+##  Installation
 
 Want to run this app locally? Follow these steps:
 
@@ -42,7 +42,7 @@ npm run dev
 ```
 Open http://localhost:3000 in your browser 
 
-## 🎮 Usage
+##  Usage
 
 ### Explore a Single Profile
 1. Visit the homepage.
@@ -55,7 +55,7 @@ Open http://localhost:3000 in your browser
 3. Click "Compare" to see a side-by-side comparison with a chart showing repos, followers, following.
 
 
-## 💻 Tech Stack
+##  Tech Stack
 
 Built with:
 
