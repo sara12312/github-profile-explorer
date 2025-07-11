@@ -1,6 +1,6 @@
 # GitHub Profile Explorer 
 
-Welcome to the GitHub Profile Explorer, a tool to dive into GitHub profiles, compare your favorite developers, and get profile summaries powered by AI! 🌟 Built with Next.js, this app lets you explore user stats, repo details, and more! 
+Welcome to the GitHub Profile Explorer, a tool to dive into GitHub profiles, compare your favorite developers, and get profile summaries powered by AI!  Built with Next.js, this app lets you explore user stats, repo details, and more! 
 
 ##  Overview
 
